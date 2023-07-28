@@ -7,7 +7,6 @@ import Product from "./pages/Product";
 const App = () => {
   return (
     <div>
-      {/* <h1>Hello vite</h1> */}
       <BrowserRouter>
         <Routes>
           <Route index element={<Homepage />} />
