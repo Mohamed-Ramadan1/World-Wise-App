@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Map.module.css";
 const Map = () => {
-  return <div className={styles.mapContainer}>Map</div>;
+  return <div className={styles.mapContainer}></div>;
 };
 
 export default Map;
