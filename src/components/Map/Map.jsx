@@ -5,6 +5,7 @@ import { useCities } from "../../contexts/CitiesContext";
 
 import styles from "./Map.module.css";
 import DetectClick from "./DetectClick";
+import ChangeCenter from "./ChangeCenter";
 
 const Map = () => {
   const { cities } = useCities();
@@ -46,11 +47,5 @@ const Map = () => {
     </div>
   );
 };
-
-function ChangeCenter({ position }) {
-  const map = useMap();
-  map.setView(position);
-  return null;
-}
 
 export default Map;
