@@ -1,42 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
       "cityName": "Planice",
       "country": "Czechia",
       "emoji": "🇨🇿",
@@ -253,16 +217,64 @@
       "id": 98443215
     },
     {
-      "cityName": "Ţubarjal",
-      "country": "Saudi Arabia",
-      "emoji": "🇸🇦",
-      "date": "2023-07-31T12:34:52.610Z",
+      "cityName": "Bad Deutsch-Altenburg",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2023-07-31T14:15:32.118Z",
       "notes": "",
       "position": {
-        "lat": "30.486550842588485",
-        "lng": "38.45214843750001"
+        "lat": "48.122101028190805",
+        "lng": "16.896972656250004"
       },
-      "id": 98443216
+      "id": 98443217
+    },
+    {
+      "cityName": "Sankt Pankraz",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2023-07-31T14:26:12.348Z",
+      "notes": "",
+      "position": {
+        "lat": "47.73932336136857",
+        "lng": "14.23828125"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Nouzerines",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-31T14:26:17.074Z",
+      "notes": "",
+      "position": {
+        "lat": "46.392411189814645",
+        "lng": "2.1093750000000004"
+      },
+      "id": 98443219
+    },
+    {
+      "cityName": "Nisa",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-07-31T14:32:57.844Z",
+      "notes": "",
+      "position": {
+        "lat": "39.62261494094297",
+        "lng": "-7.712402343750001"
+      },
+      "id": 98443220
+    },
+    {
+      "cityName": "Barrundia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-31T14:33:03.639Z",
+      "notes": "",
+      "position": {
+        "lat": "42.90816007196054",
+        "lng": "-2.4609375000000004"
+      },
+      "id": 98443221
     }
   ]
 }

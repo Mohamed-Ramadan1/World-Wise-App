@@ -50,9 +50,21 @@ const CitesProvider = ({ children }) => {
       const data = await res.json();
       setCitiyes((cities) => [...cities, data]);
     } catch (error) {
-      alert("Error for loading the data");
+      alert("Error for creating  the city");
     }
   }
+
+  async function deleteCity(id) {
+    try {
+      await fetch(`${BASE_URL}/cities/${id}`, {
+        method: "DELETE",
+      });
+      setCitiyes((prevCities) => prevCities.filter((city) => city.id !== id));
+    } catch (error) {
+      alert("Error deleting the city faild");
+    }
+  }
+
   return (
     <CitiesContext.Provider
       value={{
@@ -61,6 +73,7 @@ const CitesProvider = ({ children }) => {
         currentCity,
         getCity,
         createCity,
+        deleteCity,
       }}
     >
       {children}
