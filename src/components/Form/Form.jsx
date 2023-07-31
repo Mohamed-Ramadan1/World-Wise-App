@@ -2,19 +2,14 @@
 
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { useUrlPostion } from "../../hooks/useUrlPostion";
+import { convertToEmoji } from "../../Helper/convertToEmoji";
 import Button from "../Buttons/Button";
 import Backbutton from "../Buttons/Backbutton";
 import styles from "./Form.module.css";
 
-export function convertToEmoji(countryCode) {
-  const codePoints = countryCode
-    .toUpperCase()
-    .split("")
-    .map((char) => 127397 + char.charCodeAt());
-  return String.fromCodePoint(...codePoints);
-}
-
 function Form() {
+  const [mapLat, mapLang] = useUrlPostion();
   const navigate = useNavigate();
   const [cityName, setCityName] = useState("");
   const [country, setCountry] = useState("");

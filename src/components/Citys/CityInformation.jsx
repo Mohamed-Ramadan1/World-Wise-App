@@ -1,5 +1,7 @@
 import styles from "./City.module.css";
 import Backbutton from "../Buttons/Backbutton";
+
+//Function to convert the date to formate (month,day,yeare)
 import { formatDate } from "../../Helper/formatDate";
 
 const CityInformation = ({ currentCity }) => {
