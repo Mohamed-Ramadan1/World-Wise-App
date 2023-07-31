@@ -4,6 +4,8 @@ import { useState } from "react";
 import { useUrlPostion } from "../../hooks/useUrlPostion";
 import { convertToEmoji } from "../../Helper/convertToEmoji";
 import { useEffect } from "react";
+import { useCities } from "../../contexts/CitiesContext";
+import { useNavigate } from "react-router-dom";
 import Button from "../Buttons/Button";
 import Backbutton from "../Buttons/Backbutton";
 import styles from "./Form.module.css";
@@ -11,8 +13,6 @@ import Message from "../Message/Message";
 import Spinner from "../Spinners/Spinner";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-import { useCities } from "../../contexts/CitiesContext";
-import { useNavigate } from "react-router-dom";
 
 const BASE_URL = "https://api.bigdatacloud.net/data/reverse-geocode-client";
 function Form() {
@@ -39,7 +39,6 @@ function Form() {
             `${BASE_URL}?latitude=${lat}&longitude=${lng}`
           );
           const data = await res.json();
-          console.log(data);
 
           if (!data.countryCode)
             throw new Error(

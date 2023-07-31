@@ -1,150 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Planice",
-      "country": "Czechia",
-      "emoji": "🇨🇿",
-      "date": "2023-07-31T12:17:51.215Z",
-      "notes": "ad city",
-      "position": {
-        "lat": "49.38237278700955",
-        "lng": "13.491210937500002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Montferrer i Castellbo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-31T12:19:18.559Z",
-      "notes": "adj",
-      "position": {
-        "lat": "42.407234661551875",
-        "lng": "1.2744140625000002"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "El Hamma",
-      "country": "Tunisia",
-      "emoji": "🇹🇳",
-      "date": "2023-07-31T12:22:45.244Z",
-      "notes": "adsf",
-      "position": {
-        "lat": "33.706062655101206",
-        "lng": "9.558105468750002"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Foggaret Ezzaou",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-07-31T12:22:55.955Z",
-      "notes": "",
-      "position": {
-        "lat": "28.14950321154457",
-        "lng": "3.8012695312500004"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Monaco",
-      "country": "Monaco",
-      "emoji": "🇲🇨",
-      "date": "2023-07-31T12:26:27.052Z",
-      "notes": "Rich countery",
-      "position": {
-        "lat": "43.644025847699496",
-        "lng": "7.492675781250001"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Monaco",
-      "country": "Monaco",
-      "emoji": "🇲🇨",
-      "date": "2023-07-31T12:26:27.052Z",
-      "notes": "Rich countery",
-      "position": {
-        "lat": "43.644025847699496",
-        "lng": "7.492675781250001"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Nouzerines",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-07-31T12:27:48.488Z",
-      "notes": "",
-      "position": {
-        "lat": "46.392411189814645",
-        "lng": "2.1313476562500004"
-      },
-      "id": 98443204
-    },
-    {
-      "cityName": "Mouroux",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-07-31T12:27:48.488Z",
-      "notes": "",
-      "position": {
-        "lat": "48.83579746243093",
-        "lng": "3.0541992187500004"
-      },
-      "id": 98443205
-    },
-    {
-      "cityName": "Mouroux",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-07-31T12:27:48.488Z",
-      "notes": "",
-      "position": {
-        "lat": "48.83579746243093",
-        "lng": "3.0541992187500004"
-      },
-      "id": 98443206
-    },
-    {
-      "cityName": "Mouroux",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-07-31T12:27:48.488Z",
-      "notes": "",
-      "position": {
-        "lat": "48.83579746243093",
-        "lng": "3.0541992187500004"
-      },
-      "id": 98443207
-    },
-    {
-      "cityName": "Mouroux",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-07-31T12:27:48.488Z",
-      "notes": "",
-      "position": {
-        "lat": "48.83579746243093",
-        "lng": "3.0541992187500004"
-      },
-      "id": 98443208
-    },
-    {
-      "cityName": "Mouroux",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-07-31T12:27:48.488Z",
-      "notes": "",
-      "position": {
-        "lat": "48.83579746243093",
-        "lng": "3.0541992187500004"
-      },
-      "id": 98443209
-    },
-    {
       "cityName": "Mouroux",
       "country": "France",
       "emoji": "🇫🇷",
@@ -191,30 +47,6 @@
         "lng": "-4.262695312500001"
       },
       "id": 98443213
-    },
-    {
-      "cityName": "Andujar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-31T12:32:05.770Z",
-      "notes": "",
-      "position": {
-        "lat": "38.324420427006544",
-        "lng": "-4.086914062500001"
-      },
-      "id": 98443214
-    },
-    {
-      "cityName": "Bratislava",
-      "country": "Slovakia",
-      "emoji": "🇸🇰",
-      "date": "2023-07-31T12:34:41.695Z",
-      "notes": "",
-      "position": {
-        "lat": "48.122101028190805",
-        "lng": "17.270507812500004"
-      },
-      "id": 98443215
     },
     {
       "cityName": "Bad Deutsch-Altenburg",
@@ -275,6 +107,138 @@
         "lng": "-2.4609375000000004"
       },
       "id": 98443221
+    },
+    {
+      "cityName": "Ayranci",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-07-31T14:39:07.746Z",
+      "notes": "",
+      "position": {
+        "lat": "37.17782559332976",
+        "lng": "33.77197265625001"
+      },
+      "id": 98443222
+    },
+    {
+      "cityName": "Alcacer do Sal",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-07-31T14:41:38.788Z",
+      "notes": "",
+      "position": {
+        "lat": "38.47939467327645",
+        "lng": "-8.657226562500002"
+      },
+      "id": 98443223
+    },
+    {
+      "cityName": "Foum Zguid",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-07-31T14:42:08.182Z",
+      "notes": "",
+      "position": {
+        "lat": "29.6880527498568",
+        "lng": "-7.470703125000001"
+      },
+      "id": 98443224
+    },
+    {
+      "cityName": "Montamarta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-31T15:28:47.538Z",
+      "notes": "",
+      "position": {
+        "lat": "41.672911819602085",
+        "lng": "-5.866699218750001"
+      },
+      "id": 98443225
+    },
+    {
+      "cityName": "Asolo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-07-31T15:30:51.595Z",
+      "notes": "",
+      "position": {
+        "lat": "45.82114340079471",
+        "lng": "11.93115234375"
+      },
+      "id": 98443226
+    },
+    {
+      "cityName": "La Calzada de Calatrava",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-31T15:31:08.938Z",
+      "notes": "",
+      "position": {
+        "lat": "38.634036452919226",
+        "lng": "-3.7133789062500004"
+      },
+      "id": 98443227
+    },
+    {
+      "cityName": "Vallcebre",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-31T15:31:16.441Z",
+      "notes": "",
+      "position": {
+        "lat": "42.21224516288584",
+        "lng": "1.8017578125000002"
+      },
+      "id": 98443228
+    },
+    {
+      "cityName": "Ajdabiya",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2023-07-31T15:33:13.163Z",
+      "notes": "",
+      "position": {
+        "lat": "30.12612436422458",
+        "lng": "21.225585937500004"
+      },
+      "id": 98443229
+    },
+    {
+      "cityName": "Anguita",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-31T15:36:19.062Z",
+      "notes": "",
+      "position": {
+        "lat": "41.046216814520655",
+        "lng": "-2.39501953125"
+      },
+      "id": 98443230
+    },
+    {
+      "cityName": "Zuwarah",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2023-07-31T15:36:23.742Z",
+      "notes": "",
+      "position": {
+        "lat": "32.36140331527543",
+        "lng": "11.843261718750002"
+      },
+      "id": 98443231
+    },
+    {
+      "cityName": "Al Marj",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2023-07-31T15:37:03.477Z",
+      "notes": "",
+      "position": {
+        "lat": "32.02670629333614",
+        "lng": "20.852050781250004"
+      },
+      "id": 98443232
     }
   ]
 }
