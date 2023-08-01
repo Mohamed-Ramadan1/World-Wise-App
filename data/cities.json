@@ -10,18 +10,6 @@
         "lat": "48.83579746243093",
         "lng": "3.0541992187500004"
       },
-      "id": 98443210
-    },
-    {
-      "cityName": "Mouroux",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-07-31T12:27:48.488Z",
-      "notes": "",
-      "position": {
-        "lat": "48.83579746243093",
-        "lng": "3.0541992187500004"
-      },
       "id": 98443211
     },
     {
@@ -47,18 +35,6 @@
         "lng": "-4.262695312500001"
       },
       "id": 98443213
-    },
-    {
-      "cityName": "Bad Deutsch-Altenburg",
-      "country": "Austria",
-      "emoji": "🇦🇹",
-      "date": "2023-07-31T14:15:32.118Z",
-      "notes": "",
-      "position": {
-        "lat": "48.122101028190805",
-        "lng": "16.896972656250004"
-      },
-      "id": 98443217
     },
     {
       "cityName": "Sankt Pankraz",
@@ -239,6 +215,102 @@
         "lng": "20.852050781250004"
       },
       "id": 98443232
+    },
+    {
+      "cityName": "Zahana",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-08-01T05:38:02.723Z",
+      "notes": "",
+      "position": {
+        "lat": "35.44277092585766",
+        "lng": "-0.46142578125000006"
+      },
+      "id": 98443233
+    },
+    {
+      "cityName": "Villemoutiers",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-01T06:06:01.890Z",
+      "notes": "",
+      "position": {
+        "lat": "47.97521412341618",
+        "lng": "2.5708007812500004"
+      },
+      "id": 98443234
+    },
+    {
+      "cityName": "Fargues-sur-Ourbise",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-01T06:25:45.865Z",
+      "notes": "",
+      "position": {
+        "lat": "44.19795903948531",
+        "lng": "0.13183593750000003"
+      },
+      "id": 98443235
+    },
+    {
+      "cityName": "San Miguel de Bernuy",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T06:37:16.661Z",
+      "notes": "",
+      "position": {
+        "lat": "41.393294288784894",
+        "lng": "-3.9331054687500004"
+      },
+      "id": 98443236
+    },
+    {
+      "cityName": "Alia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T06:37:22.452Z",
+      "notes": "",
+      "position": {
+        "lat": "39.45316112807394",
+        "lng": "-5.251464843750001"
+      },
+      "id": 98443237
+    },
+    {
+      "cityName": "Krattigen",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2023-08-01T06:46:55.083Z",
+      "notes": "",
+      "position": {
+        "lat": "46.649436163350245",
+        "lng": "7.734375000000001"
+      },
+      "id": 98443238
+    },
+    {
+      "cityName": "Kerepes",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2023-08-01T06:46:59.194Z",
+      "notes": "",
+      "position": {
+        "lat": "47.56170075451973",
+        "lng": "19.248046875000004"
+      },
+      "id": 98443239
+    },
+    {
+      "cityName": "Wanfried",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-08-01T06:47:01.972Z",
+      "notes": "",
+      "position": {
+        "lat": "51.144894309328016",
+        "lng": "10.184326171875002"
+      },
+      "id": 98443240
     }
   ]
 }
