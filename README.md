@@ -20,9 +20,9 @@ https://github.com/Mohamed-Ramadan1/World-Wise-App.git
 
 #APP-preview.
 
-![image](./app-previow/w1.png)
-![image](./app-previow/w2.png)
-![image](./app-previow/w3.png)
-![image](./app-previow/w4.png)
-![image](./app-previow/w5.png)
-![image](./app-previow/w6.png)
+![image](./App-preview-images/w1.png)
+![image](./App-preview-images/w2.png)
+![image](./App-preview-images/w3.png)
+![image](./App-preview-images/w4.png)
+![image](./App-preview-images/w5.png)
+![image](./App-preview-images/w6.png)
