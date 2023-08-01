@@ -14,7 +14,7 @@ Add and Delete Cities: Users can easily add new cities to their list, complete w
 
 1-Clone the repository to your local machine.
 https://github.com/Mohamed-Ramadan1/World-Wise-App.git
-
+* on the terminal.
 2-npm install
 
 3-npm run server
