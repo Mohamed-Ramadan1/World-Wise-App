@@ -18,4 +18,11 @@ https://github.com/Mohamed-Ramadan1/World-Wise-App.git
 
 4-npm run dev
 
-![image]('./app-previow/w1.png')
+#APP-preview
+s
+![image](./app-previow/w1.png)
+![image](./app-previow/w2.png)
+![image](./app-previow/w3.png)
+![image](./app-previow/w4.png)
+![image](./app-previow/w5.png)
+![image](./app-previow/w6.png)
