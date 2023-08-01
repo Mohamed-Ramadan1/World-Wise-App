@@ -18,4 +18,4 @@ https://github.com/Mohamed-Ramadan1/World-Wise-App.git
 
 4-npm run dev
 
-![image]('./app-previow/w1.png')
+![image](./app-previow/w1.png)
